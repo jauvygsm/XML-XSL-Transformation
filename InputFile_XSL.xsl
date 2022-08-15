@@ -15,7 +15,7 @@
     </xsl:template>
  
     <!-- Root template -->
-    <xsl:template match="/Quickbooks_Journal">
+    <xsl:template match="/Journal">
         <xsl:copy>
             
     <!--  Get Specific Node for Company Code  -->
