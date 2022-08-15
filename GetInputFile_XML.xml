@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Quickbooks_Journal>
+<Journal>
     <Account>
         <col1/>
         <col2/>
@@ -135,4 +135,4 @@
         <col12>USD</col12>
         <col13>Monthly_Average</col13>
     </Account>
-</Quickbooks_Journal>
+</Journal>
