@@ -1,7 +1,7 @@
 # XML-XSL-Transformation
 See output below:
 <?xml version="1.0" encoding="UTF-8"?>
-<Quickbooks_Journal>
+<Journal>
    <Company_Code>
       <col3>Company Code 0800</col3>
    </Company_Code>
@@ -80,4 +80,4 @@ See output below:
       <col12>USD</col12>
       <col13>Monthly_Average</col13>
    </Account>
-</Quickbooks_Journal>
+</Journal>
